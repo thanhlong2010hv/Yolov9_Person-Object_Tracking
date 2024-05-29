@@ -1,0 +1,7 @@
+torch
+utils
+imutils
+pillow
+deep-sort-realtime
+pandas
+requests
